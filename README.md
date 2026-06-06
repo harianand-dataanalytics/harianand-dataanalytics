@@ -1,76 +1,90 @@
-# 👋 Hi there, I'm Hari Anand!
+<h1 align="center">⚡ Hari Anand | Data Analytics & Financial Reporting 📊</h1>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=harianandmenghwar369-spec&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile Views" />
+<div align="center">
+  <!-- Profile Views Shield -->
+  <img src="https://komarev.com/ghpvc/?username=harianandmenghwar369-spec&label=PROFILE+VIEWS&color=0052CC&style=flat-square" alt="Profile Views"/>
+  <!-- Freelance Status Shield -->
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00B22D?style=flat-square" alt="Status"/>
+  <!-- Location Shield -->
+  <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-1E3A8A?style=flat-square" alt="Location"/>
 </div>
 
-I am a data-driven specialist focused on turning complex numbers into clear financial insights. I bridge the gap between financial frameworks and process automation by building interactive dashboards, structural accounting suites, and automated workflow solutions.
+<p align="center">
+  <i>Turning raw enterprise data and complex transactions into streamlined, interactive financial suites.</i>
+</p>
+
+<p align="center">
+  <a href="#-freelance-platforms"><b>Freelancing</b></a> •
+  <a href="#-social-media--contact"><b>Connect</b></a> •
+  <a href="#-core-expertises"><b>Skills</b></a> •
+  <a href="#-featured-projects"><b>Portfolios</b></a>
+</p>
 
 ---
----
 
-## 💼 Freelancing Platforms
+## 💼 Freelance Platforms
+
 <div align="left">
   <a href="https://www.fiverr.com/hari_dm" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Hari__dm-00B22D?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" height="35"/>
+    <img src="https://img.shields.io/badge/Fiverr-hari__dm-00B22D?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.upwork.com" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Data__Specialist-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" height="35"/>
+    <img src="https://img.shields.io/badge/Upwork-Data__Analytics-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" height="40"/>
   </a>
 </div>
 
 ---
 
 ## 🌐 Social Media & Contact
+
 <div align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect__With__Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact__Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-Get__In__Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
   </a>
 </div>
 
 ---
-## 🛠️ When I build systems, I rely on:
 
-### 📊 Data Analytics & Finance
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA_Macros-1E3A8A?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-0052CC?style=for-the-badge)
-![Accounting](https://img.shields.io/badge/Accounting_Principles-4A5568?style=for-the-badge)
+## 🛠️ Core Expertises
 
-### 🐍 Automation & Future Tech
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Automation-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![ChatGPT Prompts](https://img.shields.io/badge/AI_Automation-00A3A4?style=for-the-badge&logo=openai&logoColor=white)
+### 📈 Financial Engineering & Modeling
+* **Dynamic Spreadsheets:** Advanced Microsoft Excel structures, complex formula logic (`SUMIFS`, `INDEX/MATCH`, `XLOOKUP`), and strict data-validation layouts.
+* **Automated Ledgers:** Complete Three-Statement Financial Suites (Income Statement, Balance Sheet, Cash Flow) with unified backend mapping.
+* **Risk Reporting:** Interactive Accounts Receivable (A/R) Aging frameworks and credit metric forecasting logs.
 
----
-
-## 🚀 Live Analytics Portfolios
-
-* **[Varinda Store Dashboard](https://github.com/harianandmenghwar369-spec/Varinda-Store-Sales-Dashboard):** Dynamic retail point-of-sale reporting engine with interactive slicing and VBA automated pipelines.
-* **[Financial Statements Suite](https://github.com/harianandmenghwar369-spec/Financial-Statements-Suite):** Fully formula-linked, balanced 3-statement corporate accounting model (P&L, Balance Sheet, Cash Flow).
-* **[Sales Forecasting Engine](https://github.com/harianandmenghwar369-spec/Sales-Forecasting-Engine):** Native forecasting algorithm model accounting for seasonality and metric deviations.
+### ⚙️ Automation & Scripting
+* **VBA Modules:** Custom macro structures to eliminate manual reporting loops and safely clean transactional arrays.
+* **Process Automation:** Python automation pipelines utilizing modern operational logic to handle text parsing and dataset transformations.
 
 ---
 
-## 📊 My GitHub Analytics
+## 🚀 Featured Projects
+
+* 📊 **[Varinda-Store-Sales-Dashboard](https://github.com/harianandmenghwar369-spec/Varinda-Store-Sales-Dashboard):** Interactive POS retail sales reporting model backed by linked dimensional slicers.
+* 📉 **[Automate-PL-Tracker](https://github.com/harianandmenghwar369-spec/Automate-PL-Tracker):** Real-time net margin analyzer featuring automated monthly operational cost logs.
+* 🔮 **[Sales-Forecasting-Engine](https://github.com/harianandmenghwar369-spec/Sales-Forecasting-Engine):** Trend-decomposing revenue model evaluating historical performance intervals without manual plugins.
+
+---
+
+## 📊 Performance Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harianandmenghwar369-spec&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hari's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harianandmenghwar369-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- GitHub Work Streak Stats Card -->
+  <a href="https://github.com/harianandmenghwar369-spec">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=harianandmenghwar369-spec&theme=tokyonight&hide_border=true" alt="Hari's Streak" width="100%"/>
+  </a>
 </div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harianandmenghwar369-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Core Profile Overview Metrics -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harianandmenghwar369-spec&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hari's Account Stats" width="49%" />
+  <!-- Most-Used Tech Architecture Metrics -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harianandmenghwar369-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Hari's Language Stats" width="49%" />
 </div>
-
----
-
-## 🤝 Let's Collaborate!
-
-I am open to freelance contracts, automation consulting, and data pipeline setups. Let's build something efficient together.
-
-* 🟢 **Hire Me on Fiverr:** [fiverr.com/hari_dm](https://www.fiverr.com/hari_dm)
-* 📍 **Location:** Karachi, Pakistan
